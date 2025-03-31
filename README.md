@@ -1,0 +1,2 @@
+This project proposes a deep learning–based solution using a Long Short-Term Memory (LSTM) neural network. The aim is to automatically classify news headlines as “fake” or “real” by learning from historical data. The challenges addressed include noisy text data, the subtle nuances of language, and the need for a model that captures temporal dependencies in text sequences. In this report, we detail the problem background, our approach, dataset characteristics, algorithm design, hyperparameter tuning, and experimental evaluations.
+
